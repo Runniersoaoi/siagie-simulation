@@ -1,0 +1,16 @@
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body input {
+  @apply text-black;
+}
+
+body select {
+  @apply text-black;
+}
+
+body table {
+  @apply text-black;
+}
